@@ -28,7 +28,7 @@ between 83% and 86%. Table 1 describes the Models with high accuracies.
 We ensemble ResNet101 and VGG19 and obtained as accuracy of 86% on the
 validation set. We implemented these models using only pytorch
 
-# Conclusion
+## Conclusion
 
 In conclusion, we observed that Adam optimizer performed better other than op-
 timizers like Stochastic Gradient Descent(SGD) and on all the models. Se Resnext101-
