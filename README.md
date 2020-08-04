@@ -20,7 +20,7 @@ has 128 input and 5 outputs(5 is the number of classes). Model parameters: We
 initialize learning Rate(LR) with 0.0001 and use LR scheduler to find the best
 LR for each epoch.
 
-# Results and Findings
+## Results and Findings
 
  We introduce the results of some of the models used. A number
 of pre-trained models have been performed such as: ResNet101 ResNet152,DenseNet 121 , and EfficientNet and VGG19. These Models recorded accuracies
