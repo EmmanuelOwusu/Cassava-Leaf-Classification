@@ -27,3 +27,18 @@ of pre-trained models have been performed such as: ResNet101 ResNet152,DenseNet 
 between 83% and 86%. Table 1 describes the Models with high accuracies.
 We ensemble ResNet101 and VGG19 and obtained as accuracy of 86% on the
 validation set. We implemented these models using only pytorch
+
+# Conclusion
+
+In conclusion, we observed that Adam optimizer performed better other than op-
+timizers like Stochastic Gradient Descent(SGD) and on all the models. Se Resnext101-
+32x4d also performed well but was quit slow. Using learning rate scheduler
+helped us a lot to obtained a good accuracy on the Public Leader Board. In-
+creasing the number of epochs usually improve the accuracy of train data, how-
+ever we will usually end up with over-fitting. We then limited our number of
+epochs to be between 25-30 and also validated on the training set showed by
+the table. We again observed that Cross Entropy Loss performed better than
+Negative Log Likelihood Loss(NLL Loss) on all our models.
+We believe that when our model is deployed, it will help in detecting cassava
+leave disease. This will help farmers increase their productivity and earn much
+money.
