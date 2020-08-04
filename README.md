@@ -19,3 +19,11 @@ in between. The first layer takes 2048 inputs and 128 output, the second layer
 has 128 input and 5 outputs(5 is the number of classes). Model parameters: We
 initialize learning Rate(LR) with 0.0001 and use LR scheduler to find the best
 LR for each epoch.
+
+# Results and Findings
+
+ We introduce the results of some of the models used. A number
+of pre-trained models have been performed such as: ResNet101 ResNet152,DenseNet 121 , and EfficientNet and VGG19. These Models recorded accuracies
+between 83% and 86%. Table 1 describes the Models with high accuracies.
+We ensemble ResNet101 and VGG19 and obtained as accuracy of 86% on the
+validation set. We implemented these models using only pytorch
