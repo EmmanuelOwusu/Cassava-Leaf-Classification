@@ -2,7 +2,7 @@
 This is a project done on classifying cassava leaf diseases.
 
 
-# Data
+## Data
 
 The dataset can be found at https://www.kaggle.com/emmanuel434/cassava-peroject.
 
