@@ -2,6 +2,10 @@
 This is a project done on classifying cassava leaf diseases.
 
 
+# Data
+
+The dataset can be found at https://www.kaggle.com/emmanuel434/cassava-peroject.
+
 ## Data Preprocessing
 
 The image size used is 224 x 224. We used horizontal flip, random resized crop,
