@@ -32,11 +32,12 @@ LR for each epoch.
 
 ## Results and Findings
 
- We introduce the results of some of the models used. A number
-of pre-trained models have been performed such as: ResNet101 ResNet152,DenseNet 121 , and EfficientNet and VGG19. These Models recorded accuracies
-between 83% and 86%. Table 1 describes the Models with high accuracies.
+We introduce the results of some of the models used. A number
+of pre-trained models have been performed such as: ResNet101 ResNet152,DenseNet 121 , and EfficientNet and VGG19. 
+These Models recorded accuracies between 83% and 86%. 
+
 We ensemble ResNet101 and VGG19 and obtained as accuracy of 86% on the
-validation set. We implemented these models using only pytorch
+validation set. We implemented these models using only pytorch.
 
 ## Conclusion
 
