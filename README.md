@@ -25,7 +25,7 @@ The model is pretrained and we just remove the last layer
 in between. The first layer takes 2048 inputs and 128 output, the second layer
 has 128 input and 5 outputs(5 is the number of classes). 
 
-  * ## Model parameters: 
+  * ### Model parameters: 
 
 We initialize learning Rate(LR) with 0.0001 and use LR scheduler to find the best
 LR for each epoch.
