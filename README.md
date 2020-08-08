@@ -56,6 +56,6 @@ I then limited my number of epochs to be between 25-30 and also validated on the
 I again observed that Cross Entropy Loss performed better than Negative Log Likelihood Loss(NLL Loss) on all our models.
 
 
-I believe that when this model is deployed, it will help in detecting cassava
-leave disease. This will help farmers increase their productivity and earn much
-money.
+I believe that when this model is deployed, it will help in detecting cassava leave disease. 
+
+This will help farmers increase their productivity and earn much money.
