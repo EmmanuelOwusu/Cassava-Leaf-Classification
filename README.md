@@ -47,11 +47,13 @@ In conclusion, I observed that Adam optimizer performed better other than optimi
 
 Se-Resnext10132x4d also performed well but was quit slow. 
 
-Using learning rate scheduler helped me a lot to obtained a good accuracy on the Public Leader Board. Increasing the number of epochs usually improve the accuracy of train data, how-
-ever we will usually end up with over-fitting. We then limited our number of
-epochs to be between 25-30 and also validated on the training set showed by
-the table. We again observed that Cross Entropy Loss performed better than
-Negative Log Likelihood Loss(NLL Loss) on all our models.
+Using learning rate scheduler helped me a lot to obtained a good accuracy.
+
+Increasing the number of epochs usually improve the accuracy of train data, however we will usually end up with over-fitting. 
+
+I then limited my number of epochs to be between 25-30 and also validated on the training set.
+
+I again observed that Cross Entropy Loss performed better than Negative Log Likelihood Loss(NLL Loss) on all our models.
 
 
 I believe that when this model is deployed, it will help in detecting cassava
