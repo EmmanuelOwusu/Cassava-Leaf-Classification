@@ -8,7 +8,7 @@ The dataset can be found at https://www.kaggle.com/emmanuel434/cassava-peroject.
 
 ## Data Preprocessing
 
-The image size used is 224 x 224. I used horizontal flip, random resized crop,
+The image size used is 224 x 224. I applied horizontal flip, random resized crop,
 center crop and random rotation on the images as a form of Data Augmentation.
 
 
