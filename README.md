@@ -14,7 +14,7 @@ center crop and random rotation on the images as a form of Data Augmentation.
 
 ## Models
 
-We tried a lot of pretrained models. We also ensemble a lot of these models and
+I tried a lot of pretrained models. I also ensemble a lot of these models and
 the outputs were quit good.
 
 Comparing with other models, Resnext101-32x8d gives the best accuracy
