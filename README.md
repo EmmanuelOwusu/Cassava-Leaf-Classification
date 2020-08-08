@@ -20,14 +20,14 @@ the outputs were quit good.
 Comparing with other models, Resnext101-32x8d gives the best accuracy
 (90%). (It was 89% during validation test). 
 
-The model is pretrained and we just remove the last layer
+The model is pretrained and I just remove the last layer
 (the classifier) and add two additional fully connected layers and a Relu function
 in between. The first layer takes 2048 inputs and 128 output, the second layer
 has 128 input and 5 outputs(5 is the number of classes). 
 
   * ### Model parameters: 
 
-We initialize learning Rate(LR) with 0.0001 and use LR scheduler to find the best
+I initialize the  learning Rate(LR) with 0.0001 and use LR scheduler to find the best
 LR for each epoch.
 
 ## Results and Findings
