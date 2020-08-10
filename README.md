@@ -1,5 +1,5 @@
 # Cassava-Leaf-Classification
-This  repository  a project done on classifying cassava leaf diseases.
+This  repository contains a project done on classifying cassava leaf diseases.
 
 
 ## Data
@@ -8,7 +8,9 @@ The dataset can be found at https://www.kaggle.com/c/cassava-disease/data.
 
 ## Data Preprocessing
 
-The image size used is 224 x 224. I applied horizontal flip, random resized crop,
+The image size used is 224 x 224. 
+
+I applied horizontal flip, random resized crop,
 center crop and random rotation on the images as a form of Data Augmentation.
 
 
@@ -18,7 +20,7 @@ I tried a lot of pretrained models. I also ensemble a lot of these models and
 the outputs were quit good.
 
 Comparing with other models, Resnext101-32x8d gives the best accuracy
-(90%). (It was 89% during validation test). 
+(91%) on training set. (The accuracy  was 90% during validation test). 
 
 The model is pretrained and I just remove the last layer
 (the classifier) and add two additional fully connected layers and a Relu function
