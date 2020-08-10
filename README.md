@@ -1,5 +1,5 @@
 # Cassava-Leaf-Classification
-This  repository contains a project done on classifying cassava leaf diseases.
+This  repository  a project done on classifying cassava leaf diseases.
 
 
 ## Data
