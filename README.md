@@ -25,7 +25,7 @@ Comparing with other models, Resnext101-32x8d gives the best accuracy
 The model is pretrained and I just remove the last layer
 (the classifier) and add two additional fully connected layers and a Relu function
 in between. The first layer takes 2048 inputs and 128 output, the second layer
-has 128 input and 5 outputs (5 is the number of classes). 
+has 128 input and 5 outputs (where 5 is the number of classes). 
 
   * ### Model parameters: 
 
