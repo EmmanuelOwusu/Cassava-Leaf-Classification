@@ -38,10 +38,10 @@ A number of pre-trained models have been performed such as: ResNet101,  ResNet15
 
 These Models recorded accuracies between 83% and 86%. 
 
-I ensemble ResNet101 and VGG19 and obtained as accuracy of 86% on the
+I ensemble ResNet101 and VGG19 and obtained an accuracy of 86% on the
 validation set.
 
-I implemented these models using only pytorch.
+I implemented these models using  pytorch.
 
 ## Conclusion
 
