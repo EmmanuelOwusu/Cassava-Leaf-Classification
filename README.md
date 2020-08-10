@@ -51,7 +51,7 @@ Se_Resnext-10132x4d also performed well but was quit slow.
 
 Using learning rate scheduler helped me a lot to obtained a good accuracy.
 
-Increasing the number of epochs usually improve the accuracy of train data, however we will usually end up with over-fitting. 
+Increasing the number of epochs usually improve the accuracy of train data, however it usually results in over-fitting. 
 
 I then limited my number of epochs to be between 25-30 and also validated on the training set.
 
