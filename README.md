@@ -60,7 +60,9 @@ I again observed that Cross Entropy Loss performed better than Negative Log Like
 
 I believe that when this model is deployed, it will help in detecting cassava leave disease. 
 
-This will help farmers increase their productivity and earn much money.
+This will help farmers to increase their productivity and earn much money
+
+This willagain reduce food scarcity in various commuinities.
 
 
 ## Reference 
