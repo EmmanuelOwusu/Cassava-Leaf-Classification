@@ -11,7 +11,7 @@ The dataset can be found at https://www.kaggle.com/c/cassava-disease/data.
 The image size used is 224 x 224. 
 
 I applied horizontal flip, random resized crop,
-center crop and random rotation on the images as a form of Data Augmentation.
+center crop and random rotation on the images(Dataset) as a form of Data Augmentation.
 
 
 ## Models
