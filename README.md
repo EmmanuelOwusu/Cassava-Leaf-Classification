@@ -29,8 +29,8 @@ has 128 input and 5 outputs (where 5 is the number of classes).
 
   * ### Model parameters: 
 
-I initialize the  learning Rate (LR) with  0.0001 and used LR scheduler to find the best
-LR for each epoch.
+I initialize the  Learning Rate (LR) with  0.0001 and used LR scheduler to find the best
+learning rate  for each epoch.
 
 ## Results and Findings
 
