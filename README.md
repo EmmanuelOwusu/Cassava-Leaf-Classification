@@ -47,7 +47,7 @@ I implemented these models using  pytorch.
 
 In conclusion, I observed that Adam optimizer performed better other than optimizers like Stochastic Gradient Descent(SGD) and on all the models. 
 
-Se_Resnext-10132x4d also performed well but was quit slow. 
+Se_Resnext-10132x4d  performed well but was quit slow. 
 
 Using learning rate scheduler helped me a lot to obtained a good accuracy.
 
