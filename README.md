@@ -62,7 +62,7 @@ I believe that when this model is deployed, it will help in detecting cassava le
 
 This will help farmers to increase their productivity and earn much money
 
-This will again reduce food scarcity in various commuinities.
+This will again reduce food scarcity in various communities.
 
 
 ## Reference 
