@@ -45,7 +45,7 @@ I implemented these models using  pytorch.
 
 ## Conclusion
 
-In conclusion, I observed that Adam optimizer performed better than other  optimizers like Stochastic Gradient Descent(SGD) and on all the models. 
+In conclusion, I observed that Adam optimizer performed better than other  optimizers like Stochastic Gradient Descent(SGD) and RMSprop in all the models. 
 
 Se_Resnext-10132x4d  performed well but was quit slow. 
 
