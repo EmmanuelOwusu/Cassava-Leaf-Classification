@@ -41,7 +41,7 @@ These Models recorded accuracies between 83% and 86%.
 I ensemble ResNet101 and VGG19 and obtained an accuracy of 86% on the
 validation set.
 
-I implemented these models using  pytorch.
+I implemented these models using  Pytorch.
 
 ## Conclusion
 
