@@ -20,7 +20,7 @@ I tried a lot of pretrained models. I also ensemble a lot of these models and
 the outputs were  quite great.
 
 Comparing with other models, Resnext101-32x8d gives the best accuracy
-(91%) on training set. (The accuracy  was 90% during validation test). 
+(91%) on training set. (The Accuracy  was 90% during validation test). 
 
 The model is pretrained and I just remove the last layer
 (the classifier) and add two additional fully connected layers and a Relu function
